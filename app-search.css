@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.input-group {
+  margin-top: 32px;
+  margin-left: 32px;
+}
+
+.search-input {
+  padding: 1em;
+}
+
+.results {
+  width: 300px;
+  list-style-type: none;
+  margin: 2em auto;
+}
+
+.name {
+  padding: 1em;
+  color: #222;
+  background-color: #ddd;
+}
